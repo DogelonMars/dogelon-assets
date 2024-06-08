@@ -2,7 +2,7 @@
 
 ![DogelonMars Banner](https://github.com/DogelonMars/dogelon-assets/assets/171644838/38e34029-6f71-4919-8807-fe52fa71a4e3)
 
-## Hello, Dogelonians! 👋
+## Hello, Martians! 👋
 
 Welcome to the official repository for DogelonMars brand assets and sticker packs. Whether you're a die-hard fan, a content creator, or just someone looking to spread the DogelonMars love, you've come to the right place!
 
